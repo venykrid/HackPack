@@ -1,0 +1,7 @@
+# VS Code
+.vscode
+
+# ESP-side
+esp/build/
+esp/sdkconfig*
+managed_components

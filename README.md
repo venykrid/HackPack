@@ -5,6 +5,7 @@ I am building a electronic swiss army knife similar to a flipper zero but with d
 - NFC/RFID read and transmit
 - USB C expansion slot
 - RGB status indicator
+
 Software:
 - Debian Trixie
 - Communicates through USB Ethernet primarily with the powering device exposing a web ui that makes all of the tools accessible

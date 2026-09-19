@@ -1,4 +1,4 @@
 idf_component_register(SRCS "main.c"
                        PRIV_REQUIRES spi_flash
                        INCLUDE_DIRS "."
-                       REQUIRES esp_driver_uart cjson)
+                       REQUIRES esp_driver_uart cjson esp_driver_ledc)
